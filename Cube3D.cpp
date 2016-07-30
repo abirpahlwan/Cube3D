@@ -1,7 +1,3 @@
-#include <iostream>
-#include <stdlib.h>
-#include <math.h>
-
 #include <GL/glut.h>
 
 void initRendering() {
@@ -122,6 +118,3 @@ int main(int argc, char** argv) {
 	glutMainLoop();
 	return 0;
 }
-
-
-
